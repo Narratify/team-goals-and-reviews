@@ -38,6 +38,8 @@
 - 具体的目標とアクションプラン
 - 評価ウェイト設定
 - 進捗確認・評価プロセス
+- 評価レポート（first_review.md）
+- エビデンス資料（evidence.md/evigence.md）
 
 ### 📊 週次進捗管理 (`*/weekly-update/`)
 
@@ -74,6 +76,7 @@ AI技術など新技術習得の積極的推進と実務適用
 - プロジェクト成功率: 高水準維持
 - 技術習得: AI画像生成、3Dデザイン等
 - チーム貢献: 知見共有、新人サポート
+- 外部評価: XR Creativeアワード等への応募・開発実績
 
 ### 課題と改善点
 - 長時間労働の傾向管理
@@ -90,9 +93,15 @@ team-goals-and-reviews/
 │   └── stage.md       # 職務要件
 ├── higashida/         # 東田のファイル
 │   ├── FY8_H2/        # 8期下期目標管理
+│   │   ├── FY8_H2.md       # 目標設定
+│   │   ├── first_review.md # 評価レポート
+│   │   └── evidence.md     # エビデンス
 │   └── weekly-update/ # 週次アップデート
 ├── sakamoto/          # 坂本のファイル
 │   ├── FY8_H2/        # 8期下期目標管理
+│   │   ├── FY8_H2.md       # 目標設定
+│   │   ├── first_review.md # 評価レポート
+│   │   └── evigence.md     # エビデンス
 │   └── weekly-update/ # 週次アップデート
 ├── README.md          # このファイル
 └── CLAUDE.md          # Claude Code運用ガイド

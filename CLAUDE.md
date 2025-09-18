@@ -46,14 +46,16 @@ team-goals-and-reviews/
 ├── higashida/             # 東田祐治
 │   ├── FY8_H2/           # 8期下期目標管理
 │   │   ├── FY8_H2.md     # 目標設定シート
-│   │   ├── evidence.md   # 根拠・実績
-│   │   └── first_review.md # 初回評価
+│   │   ├── first_review.md # 評価レポート
+│   │   └── evidence.md   # エビデンス資料
 │   └── weekly-update/     # 週次進捗（6/22-8/31）
 ├── sakamoto/              # 坂本大幸
 │   ├── FY8_H2/           # 8期下期目標管理
 │   │   ├── FY8_H2.md     # 目標設定シート
-│   │   └── first_review.md # 初回評価
+│   │   ├── first_review.md # 評価レポート
+│   │   └── evigence.md   # エビデンス資料（外部評価・開発実績）
 │   └── weekly-update/     # 週次進捗（6/29-8/31）
+├── monthly-salary/        # 給与改定案（.gitignore済）
 ├── .vscode/tasks.json     # VS Code タスク設定
 ├── README.md              # プロジェクト概要
 └── CLAUDE.md              # このファイル
