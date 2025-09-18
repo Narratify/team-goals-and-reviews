@@ -43,8 +43,6 @@ team-goals-and-reviews/
 │   ├── grade.md           # 給与グレードテーブル
 │   ├── review_rule.md     # 評語定義（S/A/B/F）
 │   └── stage.md           # 職務要件（Stage 1-9）
-├── monthly-salary/         # 月給情報
-│   └── monthly-salary.md  # メンバー別月給
 ├── higashida/             # 東田祐治
 │   ├── FY8_H2/           # 8期下期目標管理
 │   │   ├── FY8_H2.md     # 目標設定シート
@@ -108,7 +106,8 @@ find . -name "*25062*" -o -name "*250622*"
 
 ### プライバシー保護
 - 個人情報は適切に管理
-- 給与情報は機密扱い
+- 給与情報は機密扱い（.gitignoreで除外）
+- センシティブ情報はローカルのみで管理
 - 外部共有時は注意
 
 ### バージョン管理

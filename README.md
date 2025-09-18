@@ -88,8 +88,6 @@ team-goals-and-reviews/
 │   ├── grade.md       # 給与グレードテーブル
 │   ├── review_rule.md # 評語定義
 │   └── stage.md       # 職務要件
-├── monthly-salary/     # 月給情報
-│   └── monthly-salary.md
 ├── higashida/         # 東田のファイル
 │   ├── FY8_H2/        # 8期下期目標管理
 │   └── weekly-update/ # 週次アップデート
