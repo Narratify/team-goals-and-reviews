@@ -6,7 +6,9 @@
 
 デザインチーム向けの目標管理・評価制度フレームワーク
 
-- **メンバー**: 東田祐治、坂本寛之（デザイナー）
+- **メンバー**:
+  - 東田祐治（Stage 4, Grade 4, Class 3, 月給：440,000円）
+  - 坂本大幸（Stage 4, Grade 5, Class 3, 月給：525,000円）
 - **期間**: FY8下期（2025/4/1〜2025/8/31）
 - **目的**: 目標設定、進捗管理、評価の体系化
 
@@ -41,16 +43,22 @@ team-goals-and-reviews/
 │   ├── grade.md           # 給与グレードテーブル
 │   ├── review_rule.md     # 評語定義（S/A/B/F）
 │   └── stage.md           # 職務要件（Stage 1-9）
+├── monthly-salary/         # 月給情報
+│   └── monthly-salary.md  # メンバー別月給
 ├── higashida/             # 東田祐治
 │   ├── FY8_H2/           # 8期下期目標管理
 │   │   ├── FY8_H2.md     # 目標設定シート
-│   │   └── evidence.md   # 根拠・実績
+│   │   ├── evidence.md   # 根拠・実績
+│   │   └── first_review.md # 初回評価
 │   └── weekly-update/     # 週次進捗（6/22-8/31）
-├── sakamoto/              # 坂本寛之
+├── sakamoto/              # 坂本大幸
 │   ├── FY8_H2/           # 8期下期目標管理
-│   │   └── FY8_H2.md     # 目標設定シート
+│   │   ├── FY8_H2.md     # 目標設定シート
+│   │   └── first_review.md # 初回評価
 │   └── weekly-update/     # 週次進捗（6/29-8/31）
-└── .vscode/tasks.json     # VS Code タスク設定
+├── .vscode/tasks.json     # VS Code タスク設定
+├── README.md              # プロジェクト概要
+└── CLAUDE.md              # このファイル
 ```
 
 ## 推奨ワークフロー

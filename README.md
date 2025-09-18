@@ -31,7 +31,7 @@
 
 #### 対象メンバー
 - **東田祐治 (Higashida)**: Stage 4, Grade 4, Class 3 デザイナー
-- **坂本寛之 (Sakamoto)**: Creative & Designer
+- **坂本大幸 (Sakamoto)**: Stage 4, Grade 5, Class 3 デザイナー
 
 #### 目標管理シート (`*/FY8_H2/`)
 各メンバーの8期下期（2025/4/1〜2025/8/31）目標設定
@@ -88,13 +88,16 @@ team-goals-and-reviews/
 │   ├── grade.md       # 給与グレードテーブル
 │   ├── review_rule.md # 評語定義
 │   └── stage.md       # 職務要件
+├── monthly-salary/     # 月給情報
+│   └── monthly-salary.md
 ├── higashida/         # 東田のファイル
 │   ├── FY8_H2/        # 8期下期目標管理
 │   └── weekly-update/ # 週次アップデート
 ├── sakamoto/          # 坂本のファイル
 │   ├── FY8_H2/        # 8期下期目標管理
 │   └── weekly-update/ # 週次アップデート
-└── README.md          # このファイル
+├── README.md          # このファイル
+└── CLAUDE.md          # Claude Code運用ガイド
 ```
 
 ## 今後の展開
