@@ -1,0 +1,68 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Claude: Analyze Project",
+      "type": "shell",
+      "command": "bash",
+      "args": ["-lc", "node scripts/analyze-project.js"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Claude: Save Session Handoff",
+      "type": "shell",
+      "command": "bash",
+      "args": ["-lc", "npm run create-session-handoff"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Claude: Maintenance Cycle",
+      "type": "shell",
+      "command": "bash",
+      "args": ["-lc", "npm run maintenance-cycle"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": [],
+      "group": { "kind": "build", "isDefault": true }
+    },
+    
+    {
+      "label": "Codex (no prompts + full access)",
+      "type": "shell",
+      "command": "bash",
+      "args": [
+        "-lc",
+        "codex --sandbox danger-full-access --ask-for-approval never \"$(cat CODEX_GUARDRAILS.md)\""
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Codex (full-auto safe)",
+      "type": "shell",
+      "command": "bash",
+      "args": [
+        "-lc",
+        "codex --full-auto \"$(cat CODEX_GUARDRAILS.md)\""
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Enable Git hooks (once)",
+      "type": "shell",
+      "command": "bash",
+      "args": [
+        "-lc",
+        "chmod +x .githooks/pre-commit && git config core.hooksPath .githooks && git config --get core.hooksPath"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    }
+  ]
+}
