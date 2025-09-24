@@ -1,0 +1,21 @@
+# 坂本 大幸
+
+S-4,G-5,C-3（月給：525,000円）
+
+## 8期下期 目標評価
+
+### 個人目標の達成状況
+
+| 目標項目 | ウェイト | 目標内容 | 達成度 | 評価 | 根拠 |
+|---------|----------|----------|--------|------|------|
+| **デザイン業務** | 45% | デザインとテクノロジーの融合によるプロジェクト品質向上<br>・プロジェクトの主体的推進・完遂<br>・AI、生成技術活用によるアート制作効率化 | 140% | **S** | ・大手6社案件（[Toyota Coniq](https://meson-team.slack.com/archives/CBNRTAXGE/p1757593179676039)、[Mercedes-Benz](https://meson-team.slack.com/archives/C08KZ1U015E/p1755857161601569)、[大阪大学](https://meson-team.slack.com/archives/C07V4SBNU4D/p1754638010994449)、戸田建設、[ITOKI](https://meson-team.slack.com/archives/C090BTG15F0/p1751262125373589)、[News AI Sensei](https://meson-team.slack.com/archives/C07V4SBNU4D/p1747894313848809)）を100%期限内完遂（一部案件はリーダーのサポートの下で遂行）<br>・News AI Senseiで永谷氏から「MESONワークス史上最高」の評価獲得。クライアントが特許部確認が必要と判断するほど詳細で価値の高い技術文書作成（[memo_02.md](https://github.com/Narratify/team-goals-and-reviews/blob/main/sakamoto/memo_02.md#L318)）<br>・ComfyUI/FLUXで建築パース生成をAPI化、実務で活用<br>・[MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes)を1-2時間で習得し大阪大学案件に即適用 |
+| **プロセス構築** | 40% | 体験設計から実装までのプロセス確立と展開<br>・Unity実装までの標準プロセス設計・文書化<br>・チーム外への展開とパブリック影響力拡大 | 70% | **B** | ・イマーシブピッチの開発で複数回のUnity実装プロセスを実践<br>・GitHubでのコード管理は進展（[PR#3](https://github.com/MESON-inc/ItokiProject/pull/3)で3,214行の変更）<br>・ただし体系的な文書化は未完成（7/14目標に対して未達）<br>・MESON事業方針の変更により、当初想定していた標準化活動が困難になった側面もある |
+| **個人とチームの成長** | 15% | 学びと関係をシェアし、個人とチームの成長を促進<br>・知見共有によるチーム力向上<br>・外部リレーションによる組織力強化 | 100% | **A** | ・Unity & TouchDesignerシステムを[Protopedia](https://protopedia.net/prototype/private/c116319c-3608-4ab1-8dd4-d1ddb9b88385)で公開<br>・[XRアワード2025](https://xrc.or.jp/award2025/)への出展決定<br>・SPARKSイベント運営でMESONブースの設営・運営を主導、コミュニティとの接点構築<br>・ComfyUIの技術知見をチームに共有、実務での活用を促進<br>・[note記事](https://note.com/hiroyukisakam/n/n60ecd89dbc87)での対外的な技術発信 |
+
+## 8期下期 総合評価
+
+| 評価 | 理由 |
+|------|------|
+| **総合評価**<br>**A**<br>**(期待以上)** | **デザイン業務で卓越、プロセス構築は途上：**<br><br>**目標達成度の観点から（framework/review_rule.md基準）**<br>・デザイン業務（45%）：**S評価** - 大手6社案件を100%完遂、MESONワークス史上最高評価<br>・プロセス構築（40%）：**B評価** - 実践はしているが文書化が未完成<br>・個人成長（15%）：**A評価** - 対外発信と実践的な知識共有を実現<br><br>**実際の成果**<br>1. 大手企業案件の着実な遂行：[Toyota](https://meson-team.slack.com/archives/CBNRTAXGE/p1757593179676039)、[Mercedes-Benz](https://meson-team.slack.com/archives/C08KZ1U015E/p1755857161601569)、[大阪大学](https://meson-team.slack.com/archives/C07V4SBNU4D/p1754638010994449)、戸田建設、[ITOKI](https://github.com/MESON-inc/ItokiProject/pull/3)、[News AI Sensei](https://meson-team.slack.com/archives/C07V4SBNU4D/p1747894313848809)をすべて納期内・高品質で完遂（複数案件でリーダーのサポートを活用しながら着実に推進）<br><br>2. News AI Senseiでの特別な評価：永谷氏から「今までのMESONのワークスの動画の中で一番わかりやすい」という評価。クライアント側が「文章と動画の内容が詳細すぎて特許部での確認が必要」と判断したほど価値の高い技術文書を作成（[memo_02.md#L318-319](https://github.com/Narratify/team-goals-and-reviews/blob/main/sakamoto/memo_02.md#L318)）<br><br>3. 技術習得と実装力：[MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes)を1-2時間で習得し即座に実装。ComfyUI/FLUXのAPI化など、新技術を実務レベルで活用<br><br>4. 対外的な活動：[Protopedia](https://protopedia.net/prototype/private/c116319c-3608-4ab1-8dd4-d1ddb9b88385)での技術公開、[XRアワード2025](https://xrc.or.jp/award2025/)出展、SPARKSイベント運営<br><br>**改善が必要な領域**<br>・プロセスの体系的な文書化が未完成<br>・標準化されたワークフローの確立が必要<br>・勤怠管理の改善（打刻率20%） |
+| **等級**<br>**維持**<br>**(S-4,G-5,C-3)** | **現在のGradeを維持する理由：**<br><br>**Grade 5として十分な実力を発揮**<br>1. 「独力で設計から制作まで行う」→ 6社案件を管理し完遂（一部はリーダーのサポートを受けながら） ✓<br>2. 「高い技術力と品質」→ 全案件で顧客満足度最高レベル ✓<br>3. 「新技術への対応」→ 1-2時間での技術習得と即実装 ✓<br>4. 「エンジニアリング能力」→ [GitHub活用](https://github.com/MESON-inc/ItokiProject/pull/3)、TestFlight配信管理 ✓<br><br>**目標達成度による評価**<br>・S評価45%、A評価15%、B評価40%の配分<br>・デザイン業務での卓越した成果が評価の中心<br><br>**Grade 6への昇格はもう少し先に**<br>・プロセス構築目標（40%）がB評価に留まる<br>・体系的な文書化と標準化が未完成<br>・より戦略的な役割や事業創出の実績が必要<br><br>**今後の成長への期待**<br>技術力と実行力は申し分なし。次期はプロセスの文書化完成と、戦略的な提案・事業創出への関与でGrade 6への道が開ける |
+| **昇降給**<br>**+4,000円**<br>**(529,000円)** | **給与改定の根拠：**<br><br>**1. 目標達成状況の評価**<br>・デザイン業務：目標の140%達成（S評価）<br>・プロセス構築：目標の70%達成（B評価）<br>・個人成長：目標の100%達成（A評価）<br>総合的に期待値を上回る成果<br><br>**2. 特筆すべき成果**<br>・News AI Senseiで永谷氏から「MESONワークス史上最高」評価を獲得。クライアントが特許部確認が必要と判断するほど詳細で価値の高い技術文書作成<br>・大手6社案件をすべて高品質で完遂<br>・ComfyUIの技術知見共有で実務改善に貢献<br>・SPARKSイベント運営でコミュニティとの接点構築<br><br>**3. Grade内での位置づけ**<br>・Grade 5 Class 3の範囲：450,000～529,000円<br>・現在525,000円→529,000円はGrade内での最大評価<br>・実績と貢献度を考慮した適正評価<br><br>**改善を期待する点：**<br>・勤怠打刻を必ず行う（現在80%の打刻漏れ）<br>・プロセス構築の文書化を完成させる<br>・標準化されたワークフローの確立<br>・次期は戦略的提案や事業創出への挑戦 |
